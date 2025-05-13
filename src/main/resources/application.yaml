@@ -1,10 +1,9 @@
-spring:
-  application:
-    name: ead-notification-service
-
 server:
   port: 8084
 
+spring:
+  application:
+    name: ead-notification-service
 
 eureka:
   client:
